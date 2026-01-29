@@ -29,3 +29,7 @@ Antes de rodar o script, você precisa ter instalado na sua máquina:
   5. O programa vai gerar:
      - Um relatório no terminal.
      - Um arquivo chamado relatorio_diagnostico.txt na mesma pasta.
+## Conhecimentos aprofundados
+Construi um artigo falando mais detalhadamente sobre esse programa.
+
+Artigo: https://medium.com/@heraldo.c.alves/arquitetando-um-script-modular-em-python-para-diagnóstico-de-dados-befb3de4342d
